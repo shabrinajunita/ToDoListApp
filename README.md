@@ -49,7 +49,7 @@ Through this project, I learned how to:
 
 ## Application Preview
 
-![To-Do List Login Screen](todolisthome.png)
+![To-Do List Login Screen](todolistlogin.png)
 ![To-Do List Task View | Delete and Delete All](taskview.png)
 
 ## Future Improvements
